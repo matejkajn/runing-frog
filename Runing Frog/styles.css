@@ -1,0 +1,20 @@
+#divID {
+  border: 2px solid black;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  height: 600px;
+  width: 1000px;
+  margin-left: -500px;
+  margin-top: -300px;
+  z-index:-1;
+}
+
+body {
+  background: rgb(0,0,0);
+  background: -moz-linear-gradient(29deg, rgba(0,0,0,1) 0%, rgba(48,48,78,1) 36%, rgba(54,54,87,1) 49%, rgba(104,104,140,1) 100%);
+  background: -webkit-linear-gradient(29deg, rgba(0,0,0,1) 0%, rgba(48,48,78,1) 36%, rgba(54,54,87,1) 49%, rgba(104,104,140,1) 100%);
+  background: linear-gradient(29deg, rgba(0,0,0,1) 0%, rgba(48,48,78,1) 36%, rgba(54,54,87,1) 49%, rgba(104,104,140,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#68688c",GradientType=1);
+}
