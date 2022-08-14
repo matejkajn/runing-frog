@@ -10,4 +10,4 @@ David Poslušný
 Grafické a zvukové soubory, nám byly zaslány zadavateli, jako podklad.
 Hru jsme vytvořili na pokyny zadavatele, který nám v průběhu implementace dával zpětnou vazbu.
 
-Hru si je možné zahrát na této url https://matejkajn.github.io/Runing-Frog/Runing%20Frog/
+Hru si je možné zahrát na této url https://matejkajn.github.io/runing-frog/Runing%20Frog/
